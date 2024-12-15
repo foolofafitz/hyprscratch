@@ -1,5 +1,3 @@
-# Usage:
-
 ## Select scratch workspace
 rofi -show scratch -modes "scratch:selectscratch.sh"
 
